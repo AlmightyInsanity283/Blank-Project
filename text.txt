@@ -1,4 +1,0 @@
-JSON
-
-JavaScript Object Notation
-J   S      O      N
